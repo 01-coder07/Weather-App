@@ -36,9 +36,7 @@ A simple and modern **Weather Application** built using **Vanilla JavaScript** a
 
 ## 🔗 Live Demo
 
-```
-* [Live Demo]([https://01-coder07.github.io/Weather-App](https://01-coder07.github.io/Weather-App/))
-```
+- [Live Demo](https://01-coder07.github.io/Weather-App/)
 
 ---
 

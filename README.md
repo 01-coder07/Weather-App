@@ -37,7 +37,7 @@ A simple and modern **Weather Application** built using **Vanilla JavaScript** a
 ## 🔗 Live Demo
 
 ```
-👉 [Live Demo](https://01-coder07.github.io/Weather-App/)
+* [Live Demo]([https://01-coder07.github.io/Weather-App](https://01-coder07.github.io/Weather-App/))
 ```
 
 ---
@@ -67,19 +67,19 @@ A simple and modern **Weather Application** built using **Vanilla JavaScript** a
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+  git clone https://github.com/01-coder07/Weather-App.git
    ```
 
 2. Open the project folder
 
    ```bash
-   cd weather-app
+   cd Weather-App
    ```
 
 3. Add your OpenWeather API key in `script.js`
 
    ```js
-   const apiKey = "YOUR_API_KEY";
+   const apiKey = "511357dd0ffa1ead77030f7dfc0d7d6f";
    ```
 
 4. Open `index.html` in your browser

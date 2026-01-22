@@ -40,7 +40,7 @@ A simple and modern **Weather Application** built using **Vanilla JavaScript** a
 > Add live link after deployment
 
 ```
-[https://your-live-link-here](https://01-coder07.github.io/Weather-App/)
+[https://01-coder07.github.io/Weather-App](click here/)
 ```
 
 ---

@@ -27,21 +27,17 @@ A simple and modern **Weather Application** built using **Vanilla JavaScript** a
 
 ## 📸 Preview
 
-> Add a screenshot of the app here
 <img width="1894" height="874" alt="image" src="https://github.com/user-attachments/assets/ebb7fffd-de19-4078-a3c2-ad2334ef7b3e" />
 
 ```md
-![Weather App Screenshot](./screenshot.png)
 ```
 
 ---
 
 ## 🔗 Live Demo
 
-> Add live link after deployment
-
 ```
-[https://01-coder07.github.io/Weather-App](click here/)
+Live Link - https://01-coder07.github.io/Weather-App/
 ```
 
 ---
